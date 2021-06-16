@@ -9,7 +9,13 @@ Tesyt repo for reproducibility
 ## Data description
 Data
 
-## How to run the analysis
+## How to install 
+
+First create and activate a virtual environment:
+
+conda create -n handson-test python=3.6
+conda activate handson-test 
+
 First install the packages with pip after navigating to the repo root folder:
 
 pip install -r requirements.txt
@@ -21,6 +27,9 @@ cd BrainStat
 python3 setup.py build
 python3 setup.py install
 
-python3 code/
+
+## How to run the analysis
+
+python3 code/analysis_01
 
 How to
