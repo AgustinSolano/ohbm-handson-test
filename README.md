@@ -30,6 +30,8 @@ python3 setup.py install
 
 ## How to run the analysis
 
-python3 code/analysis_01
+Mavigate to the code folder, then run the script:
+
+python3 analysis_01.py
 
 How to
