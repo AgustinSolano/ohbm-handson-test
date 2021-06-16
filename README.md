@@ -43,6 +43,8 @@ python3 analysis_01.py
 
 How to
 
+## Binder access
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AgustinSolano/ohbm-handson-test.git/HEAD)
 
 ```
 ```
